@@ -1,0 +1,2 @@
+with open(file_path, 'r') as sample1:: 
+This line opens the file specified by file_path in read mode ('r') and assigns the file object to the variable sample1. The with statement is used here to ensure that the file is properly closed after reading, even if an exception occurs.

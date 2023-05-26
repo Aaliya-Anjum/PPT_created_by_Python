@@ -1,0 +1,2 @@
+from pptx import Presentation: 
+This line imports the Presentation class from the pptx module. The pptx module is a Python library that allows you to create and manipulate PowerPoint (.pptx) files.
